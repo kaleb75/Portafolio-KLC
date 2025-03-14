@@ -1,60 +1,58 @@
 # Kaleb Chavira Portfolio
 
-Welcome to the portfolio of Kaleb Chavira, a Full-Stack Developer and IT/OT expert. This project showcases my skills, projects, and certifications in web development and software engineering.
+[![Portfolio Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/kaleb75/Portafolio-KLC)
+[![GitHub License](https://img.shields.io/github/license/kaleb75/Portafolio-KLC)](https://github.com/kaleb75/Portafolio-KLC/blob/main/LICENSE)
+[![Made with](https://img.shields.io/badge/made%20with-Bootstrap-563d7c.svg)](https://getbootstrap.com/)
 
-## Table of Contents
+## 👨‍💻 About Me
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+Welcome to my professional portfolio! I'm Kaleb Chavira, a Full-Stack Developer and IT/OT expert passionate about creating efficient, user-friendly web applications and solving complex technical challenges.
 
-## Introduction
+![Portfolio Preview](assets/img/portfolio-preview.png)
 
-This portfolio website is designed to highlight my professional experience, projects, and certifications. It includes sections for an introduction, about me, projects, web certifications, and contact information.
+## 📋 Table of Contents
 
-## Features
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Live Demo](#-live-demo)
+- [Setup and Installation](#-setup-and-installation)
+- [Project Structure](#-project-structure)
+- [Key Sections](#-key-sections)
+- [Contact Information](#-contact-information)
+- [License](#-license)
 
-- Responsive design using Bootstrap
-- Smooth scroll to top button
-- Form validation
-- Interactive buttons with JavaScript
-- Professional layout and design
+## ✨ Features
 
-## Technologies Used
+- **Responsive Design** - Optimized for all device sizes using Bootstrap
+- **Interactive UI** - Smooth animations and transitions
+- **Project Showcase** - Detailed portfolio of my professional work
+- **Skills Visualization** - Clear representation of technical expertise
+- **Certification Display** - Showcase of professional certifications
+- **Contact Form** - Direct communication channel with form validation
+- **Dark/Light Mode** - Toggle between viewing preferences
+- **Multilingual Support** - Available in English and Spanish
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 4.5.2
-- jQuery
+## 🛠️ Technologies Used
 
-## Setup
+- **Frontend:**
+  - HTML5
+  - CSS3
+  - JavaScript (ES6+)
+  - Bootstrap 4.5.2
+  - jQuery
 
-To set up this project locally, follow these steps:
+- **Tools & Utilities:**
+  - Git/GitHub
+  - VS Code
+  - Responsive Design Testing
+  - Cross-browser compatibility
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/kaleb75/Portafolio-KLC.git
-    ```
+## 🔗 Live Demo
 
-2. Navigate to the project directory:
-    ```bash
-    cd Portafolio-KLC
-    ```
+Experience my portfolio live: [Kaleb Chavira Portfolio](https://kaleb75.github.io/Portafolio-KLC/)
 
-3. Open `index.html` in your preferred web browser.
+## 🚀 Setup and Installation
 
-## Usage
-
-- Navigate through the different sections using the navigation bar.
-- Click on the project links to view more details about each project.
-- Use the contact form to send a message (form validation is included).
-- Click the "Scroll to Top" button to smoothly scroll back to the top of the page.
-
-## Project Structure
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/kaleb75/Portafolio-KLC.git
